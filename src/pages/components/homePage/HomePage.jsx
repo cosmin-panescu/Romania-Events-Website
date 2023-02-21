@@ -4,21 +4,26 @@ import React from 'react'
 
 const Home = ({ data }) => {
     return (
-        <main>
+        <div className='home-body'>
             {data.map((city) => (
-                <Link href={`/events/${city.id}`} key={city.id}>
-                    <Image
-                        src={city.image}
-                        alt={city.title}
-                        width={500}
-                        height={500}
-                        priority={true}
-                    />
-                    <h2>{city.title}</h2>
-                    <p>{city.description}</p>
+                <Link href={`/events/${city.id}`} className="card lk" key={city.id}>
+                    <div className="image-container">
+                        <Image
+                            className='image'
+                            src={city.image}
+                            alt={city.title}
+                            width={600}
+                            height={400}
+                            priority={true}
+                        />
+                    </div>
+                    <div className='content'>
+                        <h2>{city.title}</h2>
+                        <p>{city.description}</p>
+                    </div>
                 </Link>
             ))}
-        </main>
+        </div>
     )
 }
 

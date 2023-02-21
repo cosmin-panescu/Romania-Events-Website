@@ -1,19 +1,9 @@
-import Image from 'next/image';
+import SingleEvent from '@/pages/components/events/SingleEvent';
 import React from 'react'
 
 const EventPage = ({ data }) => {
     return (
-        <div>
-            <Image
-                src={data.image}
-                alt={data.title}
-                width={500}
-                height={500}
-                priority={true}
-            />
-            <h1>{data.title}</h1>
-            <p>{data.description}</p>
-        </div>
+        <SingleEvent data={data}/>
     )
 }
 

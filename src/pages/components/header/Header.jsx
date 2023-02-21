@@ -4,11 +4,25 @@ import React from 'react'
 const Header = () => {
     return (
         <header>
-            <nav>
-                <Link href="/">Home</Link>
-                <Link href="/events">Events</Link>
-                <Link href="/about">About</Link>
-            </nav>
+            <div>
+                <div className='topNav'>
+                    <h1>WP</h1>
+                    <nav>
+                        <ul>
+                            <li>
+                                <Link className='link lk' href="/">Home</Link>
+                            </li>
+                            <li>
+                                <Link className='link lk' href="/events">Events</Link>
+                            </li>
+                            <li>
+                                <Link className='link lk' href="/about">About</Link>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                <h1>Lorem, ipsum dolor sit amet Lorem..</h1>
+            </div>
         </header>)
 }
 
