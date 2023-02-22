@@ -5,7 +5,7 @@ const SingleEvent = ({ data }) => {
         <div className='single-event'>
             <div className="content">
                 <Image
-                    src={data.image}
+                    src={data?.image}
                     alt={data.title}
                     width={500}
                     height={500}

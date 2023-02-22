@@ -5,7 +5,7 @@ import React from 'react'
 const Home = ({ data }) => {
     return (
         <div className='home-body'>
-            {data.map((city) => (
+            {data?.map((city) => (
                 <Link href={`/events/${city.id}`} className="card lk" key={city.id}>
                     <div className="image-container">
                         <Image

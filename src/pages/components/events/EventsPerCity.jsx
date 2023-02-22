@@ -7,7 +7,7 @@ const EventsPerCity = ({ data, pageName }) => {
         <div className='events-per-city'>
             <h1>Events in {pageName}</h1>
             <div className='all-city-events'>
-                {data.map((ev, index) => (
+                {data?.map((ev, index) => (
                     <Link href={`/events/${ev.city}/${ev.id}`} className="one-city-event lk" key={index}>
                         <Image
                             src={ev.image}
