@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import React from 'react'
 
 const SingleEvent = ({ data }) => {
     return (
@@ -12,12 +11,10 @@ const SingleEvent = ({ data }) => {
                     height={500}
                     priority={true}
                 />
-                <h1>{data.title}</h1>
-                <p>{data.description}</p>
-            </div>
-            <div className="input">
-                <input type="email" />
-                <button>Submit</button>
+                <div className="content-text">
+                    <h1>{data.title}</h1>
+                    <p>{data.description}</p>
+                </div>
             </div>
         </div>)
 }
