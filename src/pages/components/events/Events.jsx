@@ -5,7 +5,7 @@ import React from 'react'
 const Events = ({ data }) => {
     return (
         <div className='events'>
-            {data.map((city, index) => (
+            {data?.map((city, index) => (
                 <Link href={`/events/${city.id}`} key={index} className="event">
                     <Image
                         src={city.image}
