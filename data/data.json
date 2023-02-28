@@ -2,49 +2,49 @@
     "events_categories": [
         {
             "id": "bucharest",
-            "title": "Events in Bucharest",
+            "title": "Festivals in Bucharest",
             "description": "Bucharest is the capital and largest city of Romania. It is described as the cultural, financial, entertainment and media center in Romania with a significant influence in Eastern and South-Eastern Europe. So, there are several great festivals and events in Bucharest.",
             "image": "https://img5.goodfon.com/wallpaper/nbig/b/18/bukharest-rumyniia-ulitsa-doma-noch-ogni.jpg"
         },
         {
             "id": "cluj-napoca",
-            "title": "Events in Cluj-Napoca",
+            "title": "Festivals in Cluj-Napoca",
             "description": "With a history of over two millennia, the city is nicknamed the Heart of Transylvania or the Treasure City. Cluj is located in the north of the Transylvanian Depression, between the Apuseni Mountains and the Transylvanian Plain. The history of Cluj begins with the population of the territory of the modern city by Dacian and Celt tribes and its conquest by the Roman Empire.",
             "image": "https://i.guim.co.uk/img/media/ccc826cd2961f5dc64b3e1283ac4224eab46a77f/0_383_5746_3448/master/5746.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=a3eb30e0c63d3ff11e88502f15d307c4"
         },
         {
             "id": "timisoara",
-            "title": "Events in Timisoara",
+            "title": "Festivals in Timisoara",
             "description": "After the First World War, Timișoara became part of Romania. Timisoara is the capital of the Western region and the largest city of the South-West development macroregion of Romania, being close to the borders with Hungary and Serbia.",
             "image": "https://www.wall-street.ro/image_thumbs/thumbs/ea4/xea4b97d2424a3ea8662c7e825eeda964-1063x560-00-86.jpg,qv=1571387938.pagespeed.ic.hcgL43OA1Z.jpg"
         },
         {
             "id": "iasi",
-            "title": "Events in Iasi",
+            "title": "Festivals in Iasi",
             "description": "Iasi was the capital of Moldova, one of the two capitals of the United Principalities and the capital of the Kingdom of Romania (during the period when Bucharest was under German occupation). Also, the population of Iași has a constant growth from year to year due to economic and financial opportunities.",
             "image": "https://media.istockphoto.com/id/1001728036/photo/iasi-city-view-of-culture-palace.jpg?s=170667a&w=0&k=20&c=R08_n9uT7P7pPN3patxxEy1Mu5z7GnsIIDbxTwsa3CQ="
         },
         {
             "id": "brasov",
-            "title": "Events in Brasov",
+            "title": "Festivals in Brasov",
             "description": "Brașov is located in the central part of the country, being surrounded by the Southern Carpathians. Also, Brasov is part of the historical region of Transylvania. Historically, the city was the center of the Burzenland (Romanian: Țara Bârsei), once dominated by the Transylvanian Saxons, and a significant commercial hub on the trade roads between Austria (then Austrian Empire) and Turkey (then Ottoman Empire).",
             "image": "https://romaniatourism.com/images/brasov/brasov-romania.jpg"
         },
         {
             "id": "sibiu",
-            "title": "Events in Sibiu",
+            "title": "Festivals in Sibiu",
             "description": "Sibiu is an important cultural and economic center in southern Transylvania. The city of Sibiu represented and represents one of the most important and flourishing cities in Transylvania, being one of the main centers of the Saxon settlers established in the area. It has had a significant economic and cultural growth in recent years, being currently one of the cities with the highest level of foreign investments in Romania.",
             "image": "https://www.romaniaforall.it/wp-content/uploads/2021/11/Sibiu.jpg "
         },
         {
             "id": "constanta",
-            "title": "Events in Constanta",
+            "title": "Festivals in Constanta",
             "description": "Constanța is one of the oldest attested cities in Romania. The first documentary attestation dates from 657 BC. when a Greek colony called Tomis was formed on the site of the current peninsula. The locality was conquered by the Romans in 71 BC. and renamed Constantiana after the sister of Emperor Constantine the Great.",
             "image": "https://romtur.ro/content/uploads/2020/07/5e957dc80c984201b63b2633_shutterstock_1143911981-COVER.jpg"
         },
         {
             "id": "oradea",
-            "title": "Events in Oradea",
+            "title": "Festivals in Oradea",
             "description": "Oradea is the most important city in the historical region of Crișana. For centuries, the municipality of Oradea has been an important point of reference for the area, being the most important cultural and commercial center.",
             "image": "https://www.forbes.ro/wp-content/uploads/2021/10/128-orase-8-Oradea-1.jpg"
         }
@@ -54,232 +54,513 @@
             "id": "izanagi-japanese-film-festival",
             "title": "Izanagi - Japanese Film Festival",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1608889476561-6242cfdbf622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+            "date": "March 3-5",
+            "description": "The IZANAGI Japanese animation festival returns with its third edition on the weekend of March 3-5 at the Eforie Cinemateca in Bucharest, with Studio Ghibli films.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/izanagi-japanese-film-festival-2023-1024x640.jpg.webp"
         },
         {
             "id": "open-world-romania",
             "title": "Open World Romania",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1521478413868-1bbd982fa4a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "March 31 - April 9",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/one-world-romania-2023-logo-1024x640.jpg"
         },
         {
             "id": "urban-blues-fest-spring",
             "title": "Urban Blues Fest Spring",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1521478413868-1bbd982fa4a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "March 31 - April 2",
+            "description": "The third edition of Urban Blues Fest will take place between March 31 and April 2, in The University Pub and will bring together artists from the mioritic blues world, as well as distinguished guests from Serbia, Austria and the United States. The stars will be: AXiS, MARIUS DOBRA BLUES BAND and BLUESCORE. 'For me, The University Pub has become a second home. The songs at Urban Blues Fest and Trocadero Blues Nights remind me of Big Mamou, Laptărie, Blues Café, the unrepeatable one-of-a-kind concerts and above all, the jam-sessions afterwards. You will be able to read about many of these wonderful moments in the third volume of Blues Made in Romania, currently under preparation. In the festival I will release Rock Interviews, vol. 5, a book that has been waiting for some time to see the light of day.' (Radu Lupaşcu)",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/urban-blues-fest-Afis-general-landscape-1-768x543.jpg.webp"
         },
         {
             "id": "german-film-days",
             "title": "German Film Days",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "March 2-5",
+            "description": "After a period of break due to the events we went through in recent years, the German Film Days return to Bucharest between March 2-5 and will bring to the public the newest German productions that will be hosted by Cinema Elvire Popesco. Organized by the Goethe-Institut, this year the festival gathers the best German films of recent times and shows them for the first time on the big screen to the cinephile public.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/h002-Afis%CC%A6-ZFG15-768x586.jpg.webp"
         },
         {
             "id": "europavox",
             "title": "Europavox",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "April 5-6",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/europavox-768x402.jpg.webp"
         },
         {
             "id": "student-theater-evenings",
             "title": "Student Theater Evenings",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://wembleypark.com/media/images/KISS-HHP-42-1440x810-Logos-Date-de.2e16d0ba.fill-496x279.jpg"
+            "date": "April 3-7",
+            "description": "'Student Theather Evenings', now in its 25th edition, is a national festival that aims to encourage young people to go to the theater. However, the audience turned out to be a much larger one every year, theater enthusiasts being convinced by the professional troupes, but also by the amateur ones, to return year after year to the Rapsodia hall, in Bucharest. The festival takes place over five days, this year, the period being April 3-7.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/serile-teatrului-studentesc-2023-768x480.jpg.webp"
         },
         {
             "id": "soundart-festival",
             "title": "Soundart Festival",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
+            "date": "April 1",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/soundart-2023-768x399.jpg.webp"
         },
         {
             "id": "burger-fest",
             "title": "BurgerFest",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+            "date": "May 12-14",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2022/05/burgerfestHEADER-ZN-NOU-768x480.jpg.webp"
         },
         {
             "id": "be-mindful-creative-fest",
             "title": "Be Mindful Creative Fest",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+            "date": "May 18-21, 27-28",
+            "description": "Through Fiti cu-Minți Creative Fest we aim to regenerate the local society by engaging in activities that aim to bring people back together, simply living together in the same space is often insufficient to give rise to a real sense of belonging, especially in the context of the pandemic. Thus, the mission of the project is that, by organizing a tour of some restaurants, galleries and cinemas that make up a mini-network, along with the activities specific to each individual location, to rekindle and/or fuel people's interest in art and the mediums of visual expression , dissolving the barrier between the public and the contemporary artist, far too often perceived as a distant agent, a liminal figure who is cut off from objective reality.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/fiti-cuminti-creative-fest-logo-crop-768x480.jpg"
         },
         {
             "id": "out-of-office-fest",
             "title": "Out of Office Fest",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1580809361436-42a7ec204889?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+            "date": "May 6",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/out-of-office-768x432.jpg.webp"
         },
         {
             "id": "metalhead-meeting",
             "title": "Metalhead Meeting",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "May 26-28",
+            "description": "In 2023, Metalhead Meeting celebrates 10 years since the first edition and returns to the 3-day format and will take place between May 26 and 28 at Romexpo, outdoors. The headliner of the festival is the American band PANTERA, the band considered to be one of the greatest metal bands of all time. The band will take the stage on Saturday, May 27. Phil and Rex sing with Charlie Benante from Anthrax and Zakk Wylde. The American band LIFE OF AGONY joins as the headliner of May 28! The Americans' show is part of the 30-year anniversary tour that has almost all sold out dates around the world. Songs like Through and Through, This Time River Runs Red or Underground, songs with millions of views on YouTube, will be heard for the first time in Bucharest on the Metalhead Meeting stage, sung by the unmistakable voice of Mina Caputo. The first wave of Cowboys from Hell earlybird subscriptions has already been sold out for almost a month and more than half of the festival tickets have already been sold. Many other bands will be announced soon as well as a second stage. Metalhead Meeting offers 10-year-old fans a series of carefully chosen bands, many for the first time in Romania. Don't forget that you can buy tickets from iaBilet in 6 installments, using all the credit cards available on the market, selecting this payment method after putting the tickets in the basket and filling in the personal data.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/metalhead-meeting.jpg.webp"
         },
         {
             "id": "ro-wine",
             "title": "RO Wine",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1587407627257-27b7127c868c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+            "date": "May 12-14",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/01/rowine-cluj-1-768x480.jpg.webp"
         },
         {
             "id": "zaiafest",
             "title": "Zaiafest",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "May 20-21",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/zaiafest-small-768x480.png.webp"
         },
         {
             "id": "appetito-italian-food-festival",
             "title": "Appetito - Italian Food Festival",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "June 10-11",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2022/06/HEADER-APETITO-768x513.jpg.webp"
         },
         {
             "id": "nostalgia",
             "title": "Nostalgia",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "June 30 - July 2",
+            "description": "NOSTALGIA tries to be a festival of life that presents the past and the future in a special way. All those who experienced NOSTALGIA could enjoy a retro & future museum where there was also a disco from the 90s-'00s. We are preparing much more for NOSTALGIA 2023.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/nostalgia-retro-disco-future-2023-768x480.jpg.webp"
         },
         {
             "id": "saga-festival",
             "title": "SAGA Festival",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "June 23-25",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/saga-festival-2023-768x480.jpg.webp"
         },
         {
             "id": "summer-in-the-city",
             "title": "Summer in the City",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "June 3-4",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/summer-in-the-city-768x548.jpg.webp"
         },
         {
             "id": "ecosystem-performing-arts-festival",
             "title": "Ecosystem - Performing Arts Festival",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "August 23-27",
+            "description": "Ecosistem - Festival of Performing Arts aims to understand through art the ways in which an inclusive community can be created and function, based on cooperation, not competition, whose goal is to grow together with everything that surrounds us. The theme of this edition is Fear(s) of global warming and we will talk about the anxieties of contemporary man.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/01/ecosistem-768x480.jpg.webp"
         },
         {
             "id": "summer-well",
             "title": "Summer Well",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "August 11-13",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/summer-well-2023-768x483.png.webp"
         },
         {
             "id": "craft-beer-festival",
             "title": "Craft Beer Festival",
             "city": "bucharest",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "September 15-17",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/craft-beer-festival-2023-768x432.jpg.webp"
         },
         {
             "id": "days-of-bessarabia",
             "title": "Days of Bessarabia Cultural Festival",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "March 24-27",
+            "description": "The Bessarabian Students' Organization from Timișoara (OSB Timișoara) is organizing the 23rd edition of the Bessarabian Days Cultural Festival, the biggest annual project of the organization, which will take place between 24-27 March 2023 March 2023, in Timisoara, Romania. The Days of Bessarabia Cultural Festival took place for the first time on March 27, 2001. As a result of the festival, Bessarabian students were motivated to assert themselves in the Romanian student environment through the cultural exchange between Romanian and ethnic students from the Republic of Moldova and to form , later, on May 3, 2001, the Bessarabian Students' Organization from Timișoara. Currently, a team of over 50 volunteer students works within the project, who develop the concept of each edition and jointly decide on its implementation. The concept of this year's festival is Letters from Bessarabia. A series of events will be organized within it, including a series of podcasts with outstanding people from both sides of the Prut, symphonic and rock music concerts, photo exhibitions from Moldova's archives, as well as works of art by Moldovan artists , theatrical and cinematographic events.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/Festivalul-Cultural-Zilele-Basarabiei-768x511.jpg.webp"
         },
         {
             "id": "german-film-days",
             "title": "German Film Days",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "March 9-12",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/h002-Afis%CC%A6-ZFG15-768x586.jpg.webp"
         },
         {
             "id": "check-art",
             "title": "Check Art",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "April 8-9",
+            "description": "Street art festival with more than 7 years of history in Timișoara. The festival promotes young talents and collaborates with vocational schools in the city. International artists, national and local artists can be found in the festival. The festival is free to enter and offers the general public an encounter with living statues, mimes, jesters, characters on stilts and many other artistic activities.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/check-art-timisoara-2023-768x480.jpg.webp"
         },
         {
             "id": "euroregional-theather-festival",
             "title": "Euroregional Theater Festival",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "May 21-28",
+            "description": "Among the important projects of the Csiky Gergely Hungarian State Theater is TESZT, the Euroregional Theater Festival in Timisoara, which has been organized annually since 2008. The event is international and aims to promote multiculturalism and familiarize the audience with the newest theatrical events in the region and not only. The festival is, thus, a platform for cultural exchanges, but also an invitation to dialogue with artists and theater people.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2022/05/teszt-2022cover-2-768x494.jpg.webp"
         },
         {
             "id": "street-food-festival",
             "title": "Street FOOD Festival",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "May 25-28",
+            "description": "From the first edition in 2016 until today, Street FOOD Festival has become the largest network of culinary events in Europe, totaling more than 50 events in 15 cities and attracting more than 3.3 million visitors. From year to year, the culinary offer is constantly expanding, the experiences are more and more diverse and interesting, and the Street FOOD Festival phenomenon is becoming more and more strongly imprinted in the social life of Romanians.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/street-food-festival-768x480.jpg.webp"
         },
         {
             "id": "appetito-italian-food-festival",
             "title": "Appetito - Italian Food Festival",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "June 16-18",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2022/06/HEADER-APETITO-768x513.jpg.webp"
         },
         {
             "id": "flight-festival",
             "title": "Flight Festival",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "June 16-18",
+            "description": "Festival of music, edutainment and technology, with guests of internationally renowned artists, as well as some of the most beloved national artists.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2022/05/Flight-Festival-1-768x512.jpeg.webp"
         },
         {
             "id": "jazzx",
             "title": "JAZZx",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "June 28 - July 2",
+            "description": "In 2013 we laid the foundation stone of what can be one of the most important cultural events in this part of Europe, part of the effort to obtain the title of European Capital of Culture 2021. From the first editions we managed to attract artists such as : Richard Bona, Kurt Elling, David Murray & Macy Gray, Terri Lyne Carrington, Lizz Wright, Al Jarreau, Anoushka Shankar, The Cat Empire, Dianne Reeves, Marcus Miller, Liv Warfield w/ The NPG Hornz, Dee Dee Bridgewater, Jacob Collier , Take 6, Imany, Dhafer Youssef or BADBADNOTGOOD, Miles Mosley x The West Coast Get Down, Chick Corea Elektric Band, Monty Alexander Harlem Kingston Express, Bill Laurance, China Moses, SUBJazz (Subcarpathians x JazzyBIT), Christian Scott aTunde Adjuah. JAZZx 2023 promises to maintain the quality of the artistic performances presented during the ten editions and to bring the most important current names of world jazz to the Timișoara stage.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/jazzx-2023-768x481.jpg.webp"
         },
         {
             "id": "road-patrol-mc-romania-bickers",
             "title": "Road Patrol MC Romania Bikers Festival",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "June 16-18",
+            "description": "Road Patrol MC Romania Bikers Festival is an event for Timișoara, a city known for its rich history and cultural significance. We like to think that the festival, now in its 19th edition, serves as a continuation of the Tim-Rock event, which was a staple of the Romanian rock scene before 1989. Held over a period of three days at the AJVPS training ground, Bikers Festival offers a unique blend of quality music, motorcycle culture and human interaction. The event includes a motorcycle parade that presents the beauty of the city, guided tours of Timișoara's cultural landmarks, an exhibition workshop made by children from the Children's Home and a charitable component through which proceeds from the sale of tickets are donated to charitable causes. Since Timișoara is the European Capital of Culture this year, the festival aims to contribute to the city's cultural heritage by promoting rock music, an important aspect of Timișoara's history and cultural diversity.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/road-patrol-mc-romania-768x474.png.webp"
         },
         {
             "id": "vest-fest",
             "title": "Vest Fest",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "June 16-18",
+            "description": "Festival of culture and urban music, reached its 8th edition",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2022/05/vest-fest-2022-credit-vest-fest-768x480.jpg.webp"
         },
         {
             "id": "check-art",
             "title": "Check Art",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "September 16-17",
+            "description": "Street art festival with more than 7 years of history in Timișoara. The festival promotes young talents and collaborates with vocational schools in the city. International artists, national and local artists can be found in the festival. The festival is free to enter and offers the general public an encounter with living statues, mimes, jesters, characters on stilts and many other artistic activities.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/check-art-timisoara-2023-768x480.jpg.webp"
         },
         {
             "id": "plai",
             "title": "PLAI",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "September 8-10",
+            "description": "PLAI is music, it is art and many cultures! It is diversity lived in every possible way, it is learning from the ones around us and from each experience. PLAI is made by volunteers for people with an open heart and mind. It's a place you must take the time to discover, with music that will really make you listen and leave you wanting more, with people that love diversity and culture and with activities that will help you discover new hobbies. Enjoy the world of PLAI, the world music, the organizations, the different cultures, the people you meet, the things you learn, the trees, the air and the vibe you create with the one next to you!",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/plai-2023-768x480.jpg.webp"
         },
         {
             "id": "street-food-festival",
             "title": "Street FOOD Festival",
             "city": "timisoara",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "date": "September 7-10",
+            "description": "From the first edition in 2016 until today, Street FOOD Festival has become the largest network of culinary events in Europe, totaling more than 50 events in 15 cities and attracting more than 3.3 million visitors. From year to year, the culinary offer is constantly expanding, the experiences are more and more diverse and interesting, and the Street FOOD Festival phenomenon is becoming more and more strongly imprinted in the social life of Romanians.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/street-food-festival-768x480.jpg.webp"
+        },
+        {
+            "id": "slanăfest",
+            "title": "Slanăfest",
+            "city": "cluj-napoca",
+            "date": "February 16-19",
+            "description": "Continuing our good habit and preserving the tradition, we will taste, judge and award at the 2023 edition of this gastro-cultural festival the bacon and selected home-made sausages, as well as the various artisanal products. We will have a local produce fair, live music, wine tasting and children's programs, so that everyone, young and old, can eat, drink and have fun to their heart's content!",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/slanafest-cluj-2023-768x402.jpg.webp"
+        },
+        {
+            "id": "ro-wine",
+            "title": "RO Wine",
+            "city": "cluj-napoca",
+            "date": "March 4-5",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/01/rowine-cluj-1-768x480.jpg.webp"
+        },
+        {
+            "id": "street-food-festival",
+            "title": "Street FOOD Festival",
+            "city": "cluj-napoca",
+            "date": "May 18-21",
+            "description": "From the first edition in 2016 until today, Street FOOD Festival has become the largest network of culinary events in Europe, totaling more than 50 events in 15 cities and attracting more than 3.3 million visitors. From year to year, the culinary offer is constantly expanding, the experiences are more and more diverse and interesting, and the Street FOOD Festival phenomenon is becoming more and more strongly imprinted in the social life of Romanians.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/street-food-festival-768x480.jpg.webp"
+        },
+        {
+            "id": "the-inner-mapping-inside",
+            "title": "The Inner - Mapping Inside",
+            "city": "cluj-napoca",
+            "date": "June 2-4",
+            "description": "The 2nd edition of The Inner - Mapping Inside 2023 is preparing a different space! Every year, for 3 days, The Inner - Mapping Inside offers the opportunity for participants to cultivate a new mental and emotional space. A break from the everyday background noise. This event-experience annually brings conferences, concerts and workshops to experience well-being. Sensitive topics, different methods, bold approaches, carefully selected speakers and facilitators, so that everyone present can safely explore who is off the agenda.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/the-inner-2023-768x480.jpg.webp"
+        },
+        {
+            "id": "tiff",
+            "title": "TIFF",
+            "city": "cluj-napoca",
+            "date": "June 9-18",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/tiff-logo-768x480.jpg"
+        },
+        {
+            "id": "electric-castle",
+            "title": "Electic Castle",
+            "city": "cluj-napoca",
+            "date": "July 19-23",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/electric-castle-2023-768x480.jpg.webp"
+        },
+        {
+            "id": "untold",
+            "title": "UNTOLD",
+            "city": "cluj-napoca",
+            "date": "August 3-6",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/untold-2023-768x480.jpg.webp"
+        },
+        {
+            "id": "jazz-in-the-park",
+            "title": "Jazz in the Park",
+            "city": "cluj-napoca",
+            "date": "September 1-3",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/jazz-in-the-park-2023-768x432.jpg.webp"
+        },
+        {
+            "id": "classix-festival",
+            "title": "Classix Festival",
+            "city": "iasi",
+            "date": "February 26 - March 4",
+            "description": "The three editions held despite the pandemic context, gathered over 110 national and international artists, 20 cultural and diplomatic partners, in 20 concerts, 4 creative entrepreneurship panels, 4 educational lectures, a vernissage, a book launch, 7 film screenings, 53 masterclasses and 5 grants for artists. All this resulting in 8500 people in the hall and 130K viewers online. Classix redefines the concert experience and adapts it to contemporary audiences, encourages dialogue and repositions classical music from the world of elites and brings it closer to the curious, passionate and explorers. The purpose of the festival is to stimulate a new generation to broaden their intellectual interests, as well as the cultural revitalization of the city. Illustrated themes include national traditions, city history, promotion of cultural diversity, as well as domestic heritage at an international level.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2022/11/Classix-2023_1-1-768x432.jpg.webp"
+        },
+        {
+            "id": "roma-cultural-identity-festival",
+            "title": "Roma Cultural Identity Festival",
+            "city": "iasi",
+            "date": "February 8-10",
+            "description": "The theme of the festival is the promotion and valorization of Roma cultural identity. The festival will take place over three days and will include various cultural manifestation activities and the promotion of understanding and appreciation of diversity. During three days, Iasi will be a meeting point for representatives of the Roma ethnicity, a space to celebrate the diversity and beauty specific to the Roma culture, as well as active participation in the cultural life of the city.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/img-1-min-768x768.png.webp"
+        },
+        {
+            "id": "hangariada",
+            "title": "Hangariada",
+            "city": "iasi",
+            "date": "May 19-21",
+            "description": "Hangariada lands again at Aerodrom between May 19 and 21. 🛩️ We meet again under the sign of art, music and flight.For the 11th edition of the festival, we are preparing a new series of air shows, flights for the public, live concerts every day and artistic installations made by Iași artists.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/01/hangariada-iasi-logo-crop-768x480.jpg.webp"
+        },
+        {
+            "id": "romanian-mental-health-film-festival",
+            "title": "Romanian Mental Health Film Festival",
+            "city": "iasi",
+            "date": "May 4-7",
+            "description": "Romanian Mental Health Film Festival is the first film festival in Romania dedicated to mental health. The event uses film to initiate conversation about important and complex human issues from immediate reality, honoring people's experience. The full program includes film screenings, dialogues with relevant people from different fields and parties.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/Romanian-Mental-Health-Film-Festival-768x480.jpg.webp"
+        },
+        {
+            "id": "street-food-festival",
+            "title": "Street FOOD Festival",
+            "city": "iasi",
+            "date": "May 11-14",
+            "description": "From the first edition in 2016 until today, Street FOOD Festival has become the largest network of culinary events in Europe, totaling more than 50 events in 15 cities and attracting more than 3.3 million visitors. From year to year, the culinary offer is constantly expanding, the experiences are more and more diverse and interesting, and the Street FOOD Festival phenomenon is becoming more and more strongly imprinted in the social life of Romanians.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/street-food-festival-768x480.jpg.webp"
+        },
+        {
+            "id": "rocanotherworld",
+            "title": "Rocanotherworld",
+            "city": "iasi",
+            "date": "June 22-25",
+            "description": "Rocanotherworld is an exploratory festival of music, art, thoughts, people and ideas organized in Iasi since 2016. It represents an authentic collective journey, a state of mind, a celebration of life by (re)connecting to the values we resonate with, a cultural effervescence that we need in shaping the way of being and feeling. The festival focuses its efforts on supporting communities, opening a stage and space for exposure, audition and experiment for underground, indie and alternative music, for electronic and acoustic music, giving artists the opportunity to meet new audiences and vice versa. The 7 organized editions (2016 - 2022) meant in numbers: 27 festival days, 110,500 participants, 444+ artists, 750+ volunteers and 10 supported causes.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2022/06/HEADERRocanotherworld-768x402.jpg.webp"
+        },
+        {
+            "id": "romanian-film-evenings",
+            "title": "Romanian Film Evenings",
+            "city": "iasi",
+            "date": "August 9-13",
+            "description": "Romanian Film Evenings is the only festival dedicated exclusively to Romanian film. With a tradition of 13 years, the project managed to transform the capital of Moldova into a pole of Romanian cinema. The originality of the project also lies in the involvement of students and young people in cultural activities, by getting to know the great personalities from the world of Romanian cinema.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2022/08/serile-filmului-romanesc-768x480.png.webp"
+        },
+        {
+            "id": "street-food-festival",
+            "title": "Street FOOD Festival",
+            "city": "brasov",
+            "date": " ",
+            "description": "From the first edition in 2016 until today, Street FOOD Festival has become the largest network of culinary events in Europe, totaling more than 50 events in 15 cities and attracting more than 3.3 million visitors. From year to year, the culinary offer is constantly expanding, the experiences are more and more diverse and interesting, and the Street FOOD Festival phenomenon is becoming more and more strongly imprinted in the social life of Romanians.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/street-food-festival-768x480.jpg.webp"
+        },
+        {
+            "id": "bessarabia-file-from-the-story",
+            "title": "Bessarabia, File from the Story",
+            "city": "brasov",
+            "date": "March 23-27",
+            "description": "The festival Bessarabia-Files from the story returns to Brașov, between March 23-27, being in its 10th edition.✨ On this occasion, the Association of Young Bessarabians from Brașov (ATB) is celebrating the 105th anniversary of The union of Bessarabia with Romania, with the primary aim of promoting the culture specific to the area between the Prut and Dniester and creating a considerable link between the Romanian and Bessarabian communities.✨✨🇷🇴🇲🇩",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/atb-asociatia-tinerilor-basarabeni-768x528.png"
+        },
+        {
+            "id": "massiv",
+            "title": "Massif",
+            "city": "brasov",
+            "date": "March 3-5",
+            "description": "The organizers promise a production that will take winter entertainment in Romania to another level, and through the Massif project they aim to transform Poiana Brașov into the most desired and sought-after mountain destination by young people in Europe. The first Massif edition has 7 scenes. In the main area of the festival, Massif Winter Village, 3 stages are located on Pârtia Bradu, and 4 other stages are made in partnership with the famous après skis in the resort.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/01/Massif-KV-768x480.jpg.webp"
+        },
+        {
+            "id": "brasov-jazz&blues-festival",
+            "title": "Brasov Jazz & Blues Festival",
+            "city": "brasov",
+            "date": "August 10-15",
+            "description": "The biggest urban jazz & blues festival in Romania",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/01/brasov-jazz-blues-768x485.jpg.webp"
+        },
+        {
+            "id": "rockstadt-extreme-fest",
+            "title": "Rockstadt Extreme Fest",
+            "city": "brasov",
+            "date": "August 2-6",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/rockstadt-extreme-fest-2023-768x595.jpg.webp"
+        },
+        {
+            "id": "strada-dell-arte",
+            "title": "Strada dell 'Arte",
+            "city": "brasov",
+            "date": "August 19-20",
+            "description": "Busking festival dedicated to street performance arts. Participating spectators can donate (busking) directly to the artist. Theatre, music, dance, plastic arts, street circus. The festival is in its 7th edition and is realized through private partnership.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/Strada-dell-Arte-2023.jpg.webp"
+        },
+        {
+            "id": "dracula-film-festival",
+            "title": "Dracula Film Festival",
+            "city": "brasov",
+            "date": "Octomber 26-29",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/01/DraculaFilmFestival-2023-768x480.jpg.webp"
+        },
+        {
+            "id": "sibiu-blues-nights",
+            "title": "Sibiu Blues Nights",
+            "city": "sibiu",
+            "date": "March 31 - April 1",
+            "description": "The Sibiu Blues Nights blues festival is a musical event that brings together blues lovers from all over the world in one place, Sala Thalia, Sibiu, Romania. Come experience the unique atmosphere of live blues music!",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/sibiu-blues-nights-768x480.jpg.webp"
+        },
+        {
+            "id": "international-theater-festival",
+            "title": "International Theater Festival",
+            "city": "sibiu",
+            "date": "June 23 - July 2",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/fits-sibiu-teatrul-radu-stanca-768x480.jpg"
+        },
+        {
+            "id": "hermannstadt-fest",
+            "title": "HermannstadtFest",
+            "city": "sibiu",
+            "date": "June 8-11",
+            "description": "The International Festival Hermannstadtfest aims to create a framework of cultural education through music both for young artists and for the general public passionate about music. We believe that music is a cultural resource that connects people and gives them the opportunity to develop, express their values and enhance their talents and identity. The Hermannstadtfest International Festival aims to highlight through music the cultural diversity specific to the city of Sibiu, Capital of European Culture, but also to open the community towards multiculturalism. In this sense, the aim is both to promote and preserve the cultural traditions of Romania and to promote the cultures of other peoples. Moreover, considering the inclusive potential of music, we propose to create contexts that contribute to the empowerment of young people from vulnerable backgrounds and to their social inclusion. The work of the composers Dan Dimitriu and Marcel Iorga and the late Sibian artist Daniel Rosalim will be brought to the attention of the competitors, companions and the public. Compared to previous years, established Romanian composers or those just starting out will be promoted through the Creation section. During the event, all competitors will perform in front of accompanying teachers, parents and spectators represented by citizens of the city of Sibiu or tourists from the country and abroad.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/HermannstadtFest-2023-768x480.jpg"
+        },
+        {
+            "id": "artmania",
+            "title": "ARTmania",
+            "city": "sibiu",
+            "date": "July 28-30",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/artmania-2023.png.webp"
+        },
+        {
+            "id": "beach-please",
+            "title": "Beach, Please!",
+            "city": "constanta",
+            "date": "April 27-30",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/beach-please-768x363.jpg.webp"
+        },
+        {
+            "id": "may-be-rock",
+            "title": "May, Be Rock",
+            "city": "constanta",
+            "date": "April 28-30",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/may-be-rock-768x432.jpg.webp"
+        },
+        {
+            "id": "neversea",
+            "title": "Neversea",
+            "city": "constanta",
+            "date": "July 6-9",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2022/05/NEVERSEA2019_0708_054725-8806_CTL-HighRes-768x480.jpg.webp"
+        },
+        {
+            "id": "retro-summer-festival-transylvania",
+            "title": "Retro Summer Festival - Transylvania",
+            "city": "oradea",
+            "date": "June 8-11",
+            "description": "",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/retro-summer-festival-768x480.jpg.webp"
+        },
+        {
+            "id": "street-food-festival",
+            "title": "Street FOOD Festival",
+            "city": "oradea",
+            "date": " ",
+            "description": "From the first edition in 2016 until today, Street FOOD Festival has become the largest network of culinary events in Europe, totaling more than 50 events in 15 cities and attracting more than 3.3 million visitors. From year to year, the culinary offer is constantly expanding, the experiences are more and more diverse and interesting, and the Street FOOD Festival phenomenon is becoming more and more strongly imprinted in the social life of Romanians.",
+            "image": "https://zilesinopti.ro/wp-content/uploads/2023/02/street-food-festival-768x480.jpg.webp"
         }
     ]
 }
