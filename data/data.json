@@ -51,153 +51,235 @@
     ],
     "allEvents": [
         {
-            "id": "london-comic-con-winter",
-            "title": "London Comic Con Winter",
-            "city": "london",
+            "id": "izanagi-japanese-film-festival",
+            "title": "Izanagi - Japanese Film Festival",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1608889476561-6242cfdbf622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
-            "emails_registered": []
+            "image": "https://images.unsplash.com/photo-1608889476561-6242cfdbf622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
         },
         {
-            "id": "hyde-park-winter-wonderland",
-            "title": "Hyde Park Winter Wonderland",
-            "city": "london",
+            "id": "open-world-romania",
+            "title": "Open World Romania",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1521478413868-1bbd982fa4a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": []
+            "image": "https://images.unsplash.com/photo-1521478413868-1bbd982fa4a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
-            "id": "new-years-eve-in-london-2023",
-            "title": "New Years Eve in London 2023 ",
-            "city": "london",
+            "id": "urban-blues-fest-spring",
+            "title": "Urban Blues Fest Spring",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1521478413868-1bbd982fa4a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": []
+            "image": "https://images.unsplash.com/photo-1521478413868-1bbd982fa4a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
-            "id": "'edtech-world-summit-2022",
-            "title": "EdTech World Summit 2022",
-            "city": "london",
+            "id": "german-film-days",
+            "title": "German Film Days",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-                "alicia@gmail.com",
-                "monica@gmail.com"
-            ]
+            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
-            "id": "sigala-at-electric-brixton",
-            "title": "Sigala at Electric Brixton",
-            "city": "london",
+            "id": "europavox",
+            "title": "Europavox",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-                "monica@gmail.com"
-            ]
+            "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
-            "id": "kiss-haunted-house-party-2022",
-            "title": "KISS Haunted House Party 2022",
-            "city": "london",
+            "id": "student-theater-evenings",
+            "title": "Student Theater Evenings",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://wembleypark.com/media/images/KISS-HHP-42-1440x810-Logos-Date-de.2e16d0ba.fill-496x279.jpg",
-            "emails_registered": []
+            "image": "https://wembleypark.com/media/images/KISS-HHP-42-1440x810-Logos-Date-de.2e16d0ba.fill-496x279.jpg"
         },
         {
-            "id": "sf-blockchain-week",
-            "title": "SF Blockchain Week",
-            "city": "san-francisco",
+            "id": "soundart-festival",
+            "title": "Soundart Festival",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
-            "emails_registered": [
-                "",
-                "",
-                "",
-                "laura@gmail.com",
-                "laura@gmail.com",
-                "laura@gmail.com"
-            ]
+            "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
         },
         {
-            "id": "innovation-summit-san-francisco",
-            "title": "Innovation Summit San Francisco",
-            "city": "san-francisco",
+            "id": "burger-fest",
+            "title": "BurgerFest",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
-            "emails_registered": []
+            "image": "https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
         },
         {
-            "id": "fan-expo-san-francisco",
-            "title": "FAN EXPO San Francisco",
-            "city": "san-francisco",
+            "id": "be-mindful-creative-fest",
+            "title": "Be Mindful Creative Fest",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
-            "emails_registered": []
+            "image": "https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
         },
         {
-            "id": "san-francisco-opera---san-francisco-tickets",
-            "title": "San Francisco Opera - San Francisco Tickets",
-            "city": "san-francisco",
+            "id": "out-of-office-fest",
+            "title": "Out of Office Fest",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1580809361436-42a7ec204889?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-            "emails_registered": []
+            "image": "https://images.unsplash.com/photo-1580809361436-42a7ec204889?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
         },
         {
-            "id": "concert-christian-löffler-+-detect-ensemble",
-            "title": "Concert Christian Löffler + Detect Ensemble",
-            "city": "barcelona",
+            "id": "metalhead-meeting",
+            "title": "Metalhead Meeting",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-                "alicia@gmail.com",
-                "monica@gmail.com"
-            ]
+            "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
-            "id": "the-halloween-house-party",
-            "title": "The Halloween House Party",
-            "city": "barcelona",
+            "id": "ro-wine",
+            "title": "RO Wine",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1587407627257-27b7127c868c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-            "emails_registered": [
-                "alicia@gmail.com",
-                "monica@gmail.com",
-                "david@yahoo.com",
-                "claire@ss.com"
-            ]
+            "image": "https://images.unsplash.com/photo-1587407627257-27b7127c868c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
         },
         {
-            "id": "international-conference-on-industrial-design",
-            "title": "International Conference on Industrial Design",
-            "city": "barcelona",
+            "id": "zaiafest",
+            "title": "Zaiafest",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-                "alicia@gmail.com",
-                "monica@gmail.com"
-            ]
+            "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
-            "id": "world-congress-2022---barcelona",
-            "title": "World Congress 2022 - Barcelona",
-            "city": "barcelona",
+            "id": "appetito-italian-food-festival",
+            "title": "Appetito - Italian Food Festival",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-                "alicia@gmail.com",
-                "monica@gmail.com"
-            ]
+            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
-            "id": "riskminds-international",
-            "title": "RiskMinds International",
-            "city": "barcelona",
+            "id": "nostalgia",
+            "title": "Nostalgia",
+            "city": "bucharest",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-                "alicia@gmail.com",
-                "monica@gmail.com"
-            ]
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "saga-festival",
+            "title": "SAGA Festival",
+            "city": "bucharest",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "summer-in-the-city",
+            "title": "Summer in the City",
+            "city": "bucharest",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "ecosystem-performing-arts-festival",
+            "title": "Ecosystem - Performing Arts Festival",
+            "city": "bucharest",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "summer-well",
+            "title": "Summer Well",
+            "city": "bucharest",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "craft-beer-festival",
+            "title": "Craft Beer Festival",
+            "city": "bucharest",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "days-of-bessarabia",
+            "title": "Days of Bessarabia Cultural Festival",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "german-film-days",
+            "title": "German Film Days",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "check-art",
+            "title": "Check Art",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "euroregional-theather-festival",
+            "title": "Euroregional Theater Festival",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "street-food-festival",
+            "title": "Street FOOD Festival",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "appetito-italian-food-festival",
+            "title": "Appetito - Italian Food Festival",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "flight-festival",
+            "title": "Flight Festival",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "jazzx",
+            "title": "JAZZx",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "road-patrol-mc-romania-bickers",
+            "title": "Road Patrol MC Romania Bikers Festival",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "vest-fest",
+            "title": "Vest Fest",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "check-art",
+            "title": "Check Art",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "plai",
+            "title": "PLAI",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            "id": "street-food-festival",
+            "title": "Street FOOD Festival",
+            "city": "timisoara",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         }
     ]
 }
