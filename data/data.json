@@ -1,22 +1,52 @@
 {
     "events_categories": [
         {
-            "id": "london",
-            "title": "Events in London",
-            "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem",
-            "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "id": "bucharest",
+            "title": "Events in Bucharest",
+            "description": "Bucharest is the capital and largest city of Romania. It is described as the cultural, financial, entertainment and media center in Romania with a significant influence in Eastern and South-Eastern Europe. So, there are several great festivals and events in Bucharest.",
+            "image": "https://img5.goodfon.com/wallpaper/nbig/b/18/bukharest-rumyniia-ulitsa-doma-noch-ogni.jpg"
         },
         {
-            "id": "san-francisco",
-            "title": "Events in San Francisco",
-            "description": "corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate.",
-            "image": "https://images.unsplash.com/photo-1506146332389-18140dc7b2fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+            "id": "cluj-napoca",
+            "title": "Events in Cluj-Napoca",
+            "description": "With a history of over two millennia, the city is nicknamed the Heart of Transylvania or the Treasure City. Cluj is located in the north of the Transylvanian Depression, between the Apuseni Mountains and the Transylvanian Plain. The history of Cluj begins with the population of the territory of the modern city by Dacian and Celt tribes and its conquest by the Roman Empire.",
+            "image": "https://i.guim.co.uk/img/media/ccc826cd2961f5dc64b3e1283ac4224eab46a77f/0_383_5746_3448/master/5746.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=a3eb30e0c63d3ff11e88502f15d307c4"
         },
         {
-            "id": "barcelona",
-            "title": "Events in Barcelona",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1579282240050-352db0a14c21?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=652&q=80"
+            "id": "timisoara",
+            "title": "Events in Timisoara",
+            "description": "After the First World War, Timișoara became part of Romania. Timisoara is the capital of the Western region and the largest city of the South-West development macroregion of Romania, being close to the borders with Hungary and Serbia.",
+            "image": "https://urlaub-in-rumänien.de/wp-content/uploads/2017/10/DJI_0203-1.jpg"
+        },
+        {
+            "id": "iasi",
+            "title": "Events in Iasi",
+            "description": "Iasi was the capital of Moldova, one of the two capitals of the United Principalities and the capital of the Kingdom of Romania (during the period when Bucharest was under German occupation). Also, the population of Iași has a constant growth from year to year due to economic and financial opportunities.",
+            "image": "https://media.istockphoto.com/id/1001728036/photo/iasi-city-view-of-culture-palace.jpg?s=170667a&w=0&k=20&c=R08_n9uT7P7pPN3patxxEy1Mu5z7GnsIIDbxTwsa3CQ="
+        },
+        {
+            "id": "brasov",
+            "title": "Events in Brasov",
+            "description": "Brașov is located in the central part of the country, being surrounded by the Southern Carpathians. Also, Brasov is part of the historical region of Transylvania. Historically, the city was the center of the Burzenland (Romanian: Țara Bârsei), once dominated by the Transylvanian Saxons, and a significant commercial hub on the trade roads between Austria (then Austrian Empire) and Turkey (then Ottoman Empire).",
+            "image": "https://romaniatourism.com/images/brasov/brasov-romania.jpg"
+        },
+        {
+            "id": "sibiu",
+            "title": "Events in Sibiu",
+            "description": "Sibiu is an important cultural and economic center in southern Transylvania. The city of Sibiu represented and represents one of the most important and flourishing cities in Transylvania, being one of the main centers of the Saxon settlers established in the area. It has had a significant economic and cultural growth in recent years, being currently one of the cities with the highest level of foreign investments in Romania.",
+            "image": "https://www.romaniaforall.it/wp-content/uploads/2021/11/Sibiu.jpg "
+        },
+        {
+            "id": "constanta",
+            "title": "Events in Constanta",
+            "description": "Constanța is one of the oldest attested cities in Romania. The first documentary attestation dates from 657 BC. when a Greek colony called Tomis was formed on the site of the current peninsula. The locality was conquered by the Romans in 71 BC. and renamed Constantiana after the sister of Emperor Constantine the Great.",
+            "image": "https://romtur.ro/content/uploads/2020/07/5e957dc80c984201b63b2633_shutterstock_1143911981-COVER.jpg"
+        },
+        {
+            "id": "oradea",
+            "title": "Events in Oradea",
+            "description": "Oradea is the most important city in the historical region of Crișana. For centuries, the municipality of Oradea has been an important point of reference for the area, being the most important cultural and commercial center.",
+            "image": "https://www.forbes.ro/wp-content/uploads/2021/10/128-orase-8-Oradea-1.jpg"
         }
     ],
     "allEvents": [
