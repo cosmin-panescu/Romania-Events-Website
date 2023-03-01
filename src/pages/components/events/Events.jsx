@@ -10,11 +10,12 @@ const Events = ({ data }) => {
                     <Image
                         src={city.image}
                         alt={city.title}
-                        width={500}
-                        height={500}
+                        width={400}
+                        height={400}
                         priority={true}
+                        className="image"
                     />
-                    <h2>{city.title}</h2>
+                    <h2>{city.id}</h2>
                 </Link>
             ))}
         </div>

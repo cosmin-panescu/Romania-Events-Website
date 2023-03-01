@@ -4,17 +4,23 @@ const SingleEvent = ({ data }) => {
     return (
         <div className='single-event'>
             <div className="content">
-                <Image
-                    src={data?.image}
-                    alt={data?.title}
-                    width={500}
-                    height={500}
-                    priority={true}
-                />
-                <div className="content-text">
-                    <h1>{data?.title}</h1>
-                    <p>{data?.description}</p>
+                <div className="content-top">
+                    <Image
+                        src={data?.image}
+                        alt={data?.title}
+                        width={600}
+                        height={400}
+                        priority={true}
+                        className='image'
+                    />
+
+                    <div className="content-top-right">
+                        <h1>{data?.title}</h1>
+                        <h1>{data?.date}</h1>
+                    </div>
                 </div>
+
+                <p>{data?.description}</p>
             </div>
         </div>)
 }
