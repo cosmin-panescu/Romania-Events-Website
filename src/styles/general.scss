@@ -296,13 +296,27 @@ header {
 .about {
     background-color: #131313;
     padding: 10rem 5rem 5rem 5rem;
-    min-height: 100vh;
+    min-height: calc(100vh - 15rem);
     color: #fffbf7;
+    display: flex;
+    justify-content: center;
 
-    h1 {
-        font-size: 3rem;
-        border-bottom: 8.5px solid #14b922;
-        width: max-content;
+    .about-content {
+        width: 100%;
+        max-width: 1250px;
+
+        h1 {
+            font-size: 3rem;
+            border-bottom: 8.5px solid #14b922;
+            width: max-content;
+        }
+
+        p {
+            text-align: justify;
+            line-height: 1.4;
+            letter-spacing: .25px;
+            font-size: 1.25rem;
+        }
     }
 }
 
