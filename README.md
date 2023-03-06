@@ -15,12 +15,6 @@ Technologies and Tools used:
 - Dynamic Routing 
 - Vercel
 
-The project includes features like:
-modern live gradiend background
-display current temperature + locations + representative image (API)
-display current time
-to do list (add & delete tasks) using Local Storage
-
 ---------------
 
 First, run the development server:
