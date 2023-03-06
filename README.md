@@ -1,5 +1,28 @@
 <h1> Romania's festivals </h1>
 
+This website provides a comprehensive list of all the major festivals taking place in Romania throughout the year, from traditional festivals to modern music events. Whether you're a local or a tourist, I hope that this website will inspire you to discover new experiences and participate in the rich cultural traditions of Romania.
+
+Thank you for visiting!
+
+Languages, Frameworks used:
+- HTML
+- SCSS
+- JavaScript
+- NextJS
+
+Technologies and Tools used:
+- Server-side Rendering
+- Dynamic Routing 
+- Vercel
+
+The project includes features like:
+modern live gradiend background
+display current temperature + locations + representative image (API)
+display current time
+to do list (add & delete tasks) using Local Storage
+
+---------------
+
 First, run the development server:
 
 ```bash
