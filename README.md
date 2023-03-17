@@ -1,5 +1,24 @@
 <h1> Romania's festivals </h1>
 
+![Untitled](https://user-images.githubusercontent.com/107345473/223219915-b33bcaec-d3b5-45f9-81ce-357611fd3ef5.png)
+
+This website provides a comprehensive list of all the major festivals taking place in Romania throughout the year, from traditional festivals to modern music events. Whether you're a local or a tourist, I hope that this website will inspire you to discover new experiences and participate in the rich cultural traditions of Romania.
+
+Thank you for visiting!
+
+Languages, Frameworks used:
+- HTML
+- SCSS
+- JavaScript
+- NextJS
+
+Technologies and Tools used:
+- Server-side Rendering
+- Dynamic Routing 
+- Vercel
+
+---------------
+
 First, run the development server:
 
 ```bash
