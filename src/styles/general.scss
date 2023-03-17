@@ -291,6 +291,7 @@ header {
         color: #fffbf7;
         display: flex;
         flex-direction: column;
+        align-items: center;
         gap: 50px;
 
         .content-top {
@@ -315,14 +316,15 @@ header {
                         border-bottom: 12.5px solid #14b922;
                         width: max-content;
                         line-height: 52.5%;
-                        font-size: 4rem;
+                        font-size: 3rem;
                     }
                 }
-
-                p {
-                    text-align: justify;
-                }
             }
+        }
+
+        p {
+            font-size: 1.2rem;
+            text-align: justify;
         }
     }
 }
@@ -363,6 +365,33 @@ footer {
 }
 
 // MEDIA QUERIS
+@media screen and (max-width: 1350px) {
+    .single-event {
+        .content {
+            .content-top {
+                gap: 3rem;
+
+                .image {
+                    transform: scale(0.8);
+                }
+
+                .content-top-right {
+                    h1 {
+                        font-size: 1.5rem;
+
+                        &:nth-child(2) {
+                            font-size: 2.5rem;
+                        }
+                    }
+                }
+            }
+
+            p {
+                width: 85%;
+            }
+        }
+    }
+}
 
 @media screen and (max-width: 1275px) {
     .home-body {
@@ -397,6 +426,37 @@ footer {
 }
 
 @media screen and (max-width: 1125px) {
+    .single-event {
+        .content {
+            .content-top {
+                flex-direction: column;
+
+                .image {
+                    transform: scale(.6);
+                }
+
+                .content-top-right {
+                    width: 100%;
+                    margin-right: auto;
+                    text-align: center;
+                    transform: translateY(-50%);
+
+                    h1 {
+                        font-size: 2rem;
+
+                        &:nth-child(2) {
+                            margin: 0 auto;
+                        }
+                    }
+                }
+            }
+
+            p {
+                font-size: 1.1rem;
+            }
+        }
+    }
+
     .home-body {
         .bottom-home {
             gap: 20px;
@@ -445,6 +505,31 @@ footer {
 }
 
 @media screen and (max-width: 670px) {
+    .single-event {
+        overflow: hidden;
+        padding: 4rem 0;
+
+        .content {
+            gap: 0;
+
+            .content-top {
+                .content-top-right {
+                    h1 {
+                        font-size: 1.5rem;
+
+                        &:nth-child(2) {
+                            font-size: 2rem;
+                        }
+                    }
+                }
+            }
+
+            p {
+                display: none;
+            }
+        }
+    }
+
     .events-per-city {
         h1 {
             font-size: 2.5rem;
@@ -490,6 +575,26 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
+    .single-event {
+        .content {
+            .content-top {
+                .image {
+                    transform: scale(.425);
+                }
+
+                .content-top-right {
+                    transform: translateY(-90%);
+
+                    h1 {
+                        &:nth-child(2) {
+                            font-size: 1.5rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
     header {
         .nav {
             ul {
