@@ -577,6 +577,22 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
+    .events {
+        gap: 0;
+        padding: 7.5rem 0;
+
+        .event {
+            &:hover {
+                transform: scale(1);
+            }
+
+            h2 {
+                padding: 7.5px;
+                font-size: 2.5rem;
+            }
+        }
+    }
+
     .single-event {
         .content {
             .content-top {
@@ -678,6 +694,43 @@ footer {
                         }
                     }
                 }
+            }
+        }
+    }
+
+    .events {
+        gap: 1rem;
+
+        .event {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+
+            .image {
+                width: 93%;
+                height: 300px;
+            }
+
+            h2 {
+                font-size: 2.25rem;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 330px) {
+    .events {
+        gap: .75rem;
+
+        .event {
+            .image {
+                width: 95%;
+                height: 275px;
+            }
+
+            h2 {
+                font-size: 2.25rem;
             }
         }
     }
