@@ -27,12 +27,18 @@ header {
     z-index: 99;
 
     .nav {
-        width: 100%;
+        width: calc(100% - 5vw);
         max-width: 1250px;
         display: flex;
         align-items: center;
         justify-content: space-between;
         color: #fff;
+
+        h1 {
+            .link {
+                color: #fff;
+            }
+        }
 
         ul {
             display: flex;
@@ -43,6 +49,13 @@ header {
 
                 .link {
                     color: #fff;
+                    border-bottom: 3px solid #111;
+                    transition: all .4s;
+                    font-size: 1.1rem;
+
+                    &:hover {
+                        border-bottom: 3px solid #14b922;
+                    }
                 }
             }
         }
@@ -64,10 +77,30 @@ header {
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        text-align: center;
 
         h1 {
             font-size: 5rem;
+
+            span {
+                color: #14b922;
+            }
         }
+
+        h2 {
+            .f {
+                color: rgb(247, 18, 18);
+            }
+
+            .s {
+                color: rgb(255, 255, 0)
+            }
+
+            .t {
+                color: rgb(40, 40, 255);
+            }
+        }
+
     }
 
     .bottom-home {
@@ -86,7 +119,7 @@ header {
             max-width: 1250px;
             display: flex;
             flex-direction: row;
-            gap: 50px;
+            gap: 60px;
             justify-content: space-between;
             align-content: center;
             align-items: center;
@@ -326,4 +359,212 @@ footer {
     align-items: center;
     border-top: 5px solid #14b922;
     justify-content: center;
+}
+
+// MEDIA QUERIS
+
+@media screen and (max-width: 1275px) {
+    .home-body {
+        .top-home {
+            width: calc(100% - 5vw);
+
+            h1 {
+                font-size: 4.5rem;
+            }
+        }
+
+        .bottom-home {
+            padding: 4rem 0;
+            gap: 10px;
+
+            .card {
+                width: calc(100% - 5vw);
+                gap: 10px;
+
+                .image-container {
+                    transform: scale(.75);
+                }
+
+                .content-container {
+                    h2 {
+                        font-size: 2.5rem;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1125px) {
+    .home-body {
+        .bottom-home {
+            gap: 20px;
+
+            .card {
+                flex-direction: column;
+                gap: 0;
+                border-bottom: 1px solid #14b922;
+                padding-bottom: 2rem;
+
+                &:last-child {
+                    border-bottom: none;
+                }
+
+
+                .content-container {
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column;
+
+                    p {
+                        width: 70%;
+                    }
+
+                    h2 {
+                        font-size: 2.5rem;
+                    }
+                }
+
+                &:nth-child(even) {
+                    flex-direction: column;
+
+                    .content-container {
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+
+                        p {
+                            width: 70%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 670px) {
+    .home-body {
+        .top-home {
+            h1 {
+                font-size: 3.5rem;
+            }
+        }
+
+        .bottom-home {
+            padding: 0 0;
+            gap: 0;
+
+            .card {
+                .content-container {
+                    p {
+                        width: 85%;
+                    }
+
+                    h2 {
+                        font-size: 2rem;
+                    }
+                }
+
+                &:nth-child(even) {
+                    .content-container {
+                        p {
+                            width: 85%;
+                        }
+
+                        h2 {
+                            font-size: 2rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 500px) {
+    header {
+        .nav {
+            ul {
+                gap: 2.5rem;
+            }
+        }
+    }
+
+    .home-body {
+        .top-home {
+            h1 {
+                font-size: 3.5rem;
+                word-wrap: break-word;
+            }
+
+            h2 {
+                word-wrap: break-word;
+            }
+        }
+
+        .bottom-home {
+            .card {
+                padding-bottom: 0rem;
+
+                .image-container {
+                    transform: scale(.6);
+                }
+
+                .content-container {
+                    transform: translateY(-25%);
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 430px) {
+    header {
+        padding: 1rem 0;
+
+        .nav {
+            height: max-content;
+            flex-direction: column;
+
+            ul {
+                transform: translateY(-100%);
+                padding-left: 0;
+            }
+        }
+    }
+
+    .home-body {
+        .bottom-home {
+            .card {
+                .image-container {
+                    transform: scale(.5);
+                }
+
+                .content-container {
+                    transform: translateY(-35%);
+
+                    p {
+                        width: 95%;
+                    }
+
+                    h2 {
+                        font-size: 1.65rem;
+                    }
+                }
+
+                &:nth-child(even) {
+                    .content-container {
+                        p {
+                            width: 95%;
+                        }
+
+                        h2 {
+                            font-size: 1.65rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
 }

@@ -6,8 +6,8 @@ const Home = ({ data }) => {
     return (
         <div className='home-body'>
             <div className='top-home'>
-                <h1>Festivals 2023</h1>
-                <h2>GUIDE TO FESTIVALS IN ROMANIA 🎉</h2>
+                <h1>Festivals <span>2023</span></h1>
+                <h2>GUIDE TO FESTIVALS IN <span className='f'>RO</span><span className='s'>MAN</span><span className="t">IA</span> 🎉</h2>
             </div>
             <div className="bottom-home">
                 {data?.map((city) => (

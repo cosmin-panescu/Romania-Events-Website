@@ -5,11 +5,8 @@ const Header = () => {
     return (
         <header>
             <div className='nav'>
-                <h1>ROstivals</h1>
+                <h1><Link className='link lk' href="/">ROstivals</Link></h1>
                 <ul>
-                    <li>
-                        <Link className='link lk' href="/">Home</Link>
-                    </li>
                     <li>
                         <Link className='link lk' href="/events">Events</Link>
                     </li>
